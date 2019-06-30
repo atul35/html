@@ -1,2 +1,6 @@
 to take repo
 git clone <repo link>
+
+git add "git commands.txt"
+git commit -m "necessary git command"
+git push 
