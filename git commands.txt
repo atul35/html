@@ -1,0 +1,2 @@
+to take repo
+git clone <repo link>
